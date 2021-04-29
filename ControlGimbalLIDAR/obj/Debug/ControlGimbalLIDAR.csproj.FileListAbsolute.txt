@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ControlGimbalLIDAR\bin\Debug\ControlGimbalLIDAR.exe.config
+C:\Users\User\source\repos\ControlGimbalLIDAR\bin\Debug\ControlGimbalLIDAR.exe
+C:\Users\User\source\repos\ControlGimbalLIDAR\bin\Debug\ControlGimbalLIDAR.pdb
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.Properties.Resources.resources
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.exe
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.pdb
+C:\Users\User\source\repos\ControlGimbalLIDAR\obj\Debug\ControlGimbalLIDAR.PPAL.resources
